@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "T-Mobile says investigating data breach involving 37 mln accounts - Reuters",
+      "description": "T-Mobile <a href=\"https://www.reuters.com/companies/TMUS.O\" target=\"_blank\">(TMUS.O)</a>, the No.3 U.S. wireless carrier by subscribers, said on Thursday it was investigating a data breach involving 37 million postpaid and prepaid accounts and that it could i…",
+      "url": "https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/",
+      "urlToImage": "https://www.reuters.com/resizer/zWxcfmS7Wzih2W-uXrbG_yL6J9g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AIKKL5FFHZJLXBUJ4O676CYOUI.jpg",
+      "publishedAt": "2023-01-20T09:59:00Z",
+      "content": "Jan 20 (Reuters) - T-Mobile (TMUS.O), the No.3 U.S. wireless carrier by subscribers, said on Thursday it was investigating a data breach involving 37 million postpaid and prepaid accounts and that it… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hannah Ward-Glenton",
+      "title": "In hindsight, monetary policy everywhere was too expansionary: Swiss central bank chief - CNBC",
+      "description": "Monetary policy has \"in hindsight\" been \"too expansionary,\" according to the Chairman of the Swiss National Bank Thomas Jordan.",
+      "url": "https://www.cnbc.com/2023/01/20/in-hindsight-monetary-policy-everywhere-was-too-expansionary-swiss-central-bank-chief.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181584-1674203283303-GettyImages-1246353288.jpg?v=1674203869&w=1920&h=1080",
+      "publishedAt": "2023-01-20T08:37:49Z",
+      "content": "\"We probably all underestimated inflationary pressure in 2021,\" Jordan told CNBC.\r\nMonetary policy was \"too expansionary\" in previous years and the current surge in consumer prices has not yet been b… [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Vicky Ge Huang, Caitlin Ostroff",
+      "title": "Crypto Lender Genesis Files for Bankruptcy, Ensnared by FTX Collapse - The Wall Street Journal",
+      "description": "The firm was hurt by loans it made to FTX affiliate Alameda Research",
+      "url": "https://www.wsj.com/articles/crypto-lender-genesis-files-for-bankruptcy-ensnared-by-ftx-collapse-11674191903",
+      "urlToImage": "https://images.wsj.net/im-707063/social",
+      "publishedAt": "2023-01-20T07:09:00Z",
+      "content": "Cryptocurrency lender Genesis Global Holdco LLC and two of its lending subsidiaries filed for bankruptcy protection late Thursday night in New York, the latest domino to fall after the failure of cry… [+432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Emma Colton",
+      "title": "Businesses take drastic action to protect against rampant shoplifting, organized crime thefts - Fox Business",
+      "description": "Retailers are locking up basic foods like ice cream, operating on an appointment-only basis and taking other measures to protect against organized retail thefts and shoplifting.",
+      "url": "https://www.foxbusiness.com/retail/businesses-drastic-action-protect-ballooning-shoplifting-organized-crime-thefts",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/IMG_4936.gif?ve=1&tl=1",
+      "publishedAt": "2023-01-20T07:08:58Z",
+      "content": "Retail thefts have ballooned in the last few years, creating a multi-billion problem for retailers and forcing companies to take drastic action to protect from lost profits.\r\nNumerous pharmacies, gro… [+6550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cost of living: Japan inflation jumps to new 41-year high - BBC",
+      "description": "The country's central bank is under pressure to increase interest rates to help curb rising prices.",
+      "url": "https://www.bbc.com/news/business-64341733",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183C1/production/_128356299_gettyimages-1246054624.jpg",
+      "publishedAt": "2023-01-20T04:31:33Z",
+      "content": "Japan's inflation rate has jumped to a fresh 41-year high as businesses pass on higher costs to their customers.\r\nCore consumer prices for last month rose by 4% from a year earlier, double the Bank o… [+1692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ganesh Rao",
+      "title": "Biotech shares to buy? Analysts see this enzyme stock rising 118% - CNBC",
+      "description": "CNBC Pro screened for global biotech stocks that are on the up -- and analysts expect a number of them to log triple-digit gains over the next year.",
+      "url": "https://www.cnbc.com/2023/01/19/biotech-shares-to-buy-analysts-see-this-enzyme-stock-rising-118percent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169298-1671576446191-gettyimages-1224202684-a244_c040_01015j_01.jpeg?v=1674187201&w=1920&h=1080",
+      "publishedAt": "2023-01-20T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sarah Rumpf",
+      "title": "Biden administration announces move to fight 'organic fraud' - Fox Business",
+      "description": "The USDA National Organic Program (NOP) announced that it would be strengthening its oversight and standards of products labeled \"organic\".",
+      "url": "https://www.foxbusiness.com/lifestyle/biden-administration-announces-move-fight-organic-fraud",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/GettyImages-1457771165.jpg?ve=1&tl=1",
+      "publishedAt": "2023-01-20T03:01:47Z",
+      "content": "The Department of Agriculture (USDA) updated its regulations on organic food labels, as part of an effort to close loopholes and increase confidence in the agency’s organic seal.\r\n\"This update to the… [+3262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Mehab Qureshi",
+      "title": "Bitcoin, Ethereum, Dogecoin Spike On FTX Revival Hopes - Benzinga",
+      "description": "Major coins traded in the green Thursday evening following news that FTX is exploring the possibility of restarting the bankrupt crypto exchange.",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/23/01/30496183/bitcoin-regains-21k-ethereum-dogecoin-spike-on-ftx-revival-hopes-analyst-says-crypto-space",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/01/19/shutterstock_2051942426.jpg?width=1200&height=800&fit=crop",
+      "publishedAt": "2023-01-20T02:16:25Z",
+      "content": "Major coins traded in the green Thursday evening following news that FTX is exploring the possibility of restarting the bankrupt crypto exchange.\r\n<table><tr><th>Cryptocurrency</th><th>Gains</th><th>… [+1927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Louis Casiano",
+      "title": "US border authorities report increase in egg smuggling attempts as poultry prices soar amid inflation - Fox Business",
+      "description": "Border officials are seeing more seizures of eggs as prices continue to rise amid soaring costs.",
+      "url": "https://www.foxbusiness.com/economy/us-border-authorities-report-increase-egg-smuggling-attempts-poultry-prices-soar-inflation",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/egg-prices.jpg?ve=1&tl=1",
+      "publishedAt": "2023-01-20T02:12:49Z",
+      "content": "Authorities on the border are seeing more seizures of eggs and poultry as people continue to try and bring the much-needed foods into the United States amid soaring costs. \r\nU.S. Customs and Border P… [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Rohan Goswami, MacKenzie Sigalos",
+      "title": "Binance was final destination for millions in funds from Bitzlato, exchange shut down for alleged money laundering - CNBC",
+      "description": "Blockchain data shows that tens of millions of dollars moved from Bitzlato through intermediaries to Binance.",
+      "url": "https://www.cnbc.com/2023/01/19/binance-was-final-destination-for-millions-in-funds-from-bitzlato.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106911984-1626436660712-gettyimages-1233884495-sindeyev-notitle210708_npnjR.jpeg?v=1674180412&w=1920&h=1080",
+      "publishedAt": "2023-01-20T02:06:00Z",
+      "content": "Federal prosecutors unsealed an indictment against a little-known crypto exchange called Bitzlato on Wednesday, alleging that it facilitated the laundering of $700 million in tainted crypto tied to t… [+5281 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Peter Loftus",
+      "title": "FDA Seeks More Data on Lilly's Alzheimer's Drug Candidate - The Wall Street Journal",
+      "description": "Setback could delay potential commercial introduction by at least several months",
+      "url": "https://www.wsj.com/articles/fda-seeks-more-data-on-lillys-alzheimers-drug-candidate-11674172480",
+      "urlToImage": "https://images.wsj.net/im-706936/social",
+      "publishedAt": "2023-01-20T01:32:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nick Timiraos",
+      "title": "Top Fed Officials See Progress on Inflation Fight - The Wall Street Journal",
+      "description": "Vice Chair Lael Brainard sees little basis for 1970s-style wage-price spiral that sustains high inflation",
+      "url": "https://www.wsj.com/articles/top-fed-official-sees-inflation-decline-as-notable-improvement-11674152117",
+      "urlToImage": "https://images.wsj.net/im-706638/social",
+      "publishedAt": "2023-01-20T01:15:00Z",
+      "content": "Two senior Federal Reserve officials said the central bank was making progress in its inflation fight, but it would take time to bring inflation back to the Feds 2% target. \r\n Fed Vice Chair Lael Bra… [+236 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Silvia Amaro",
+      "title": "China's reopening 'good news' for growth — but could be inflationary, economists warn at Davos - CNBC",
+      "description": "China's decision to welcome tourists again as well as to make it easier for those in the country to travel abroad has been one of the most discussed topics at the World Economic Forum.",
+      "url": "https://www.cnbc.com/2023/01/20/chinas-reopening-good-news-for-growth-but-could-be-inflationary-economists-warn-at-davos.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181095-1674140490115-gettyimages-1246347221-CHINA_TRAVEL.jpeg?v=1674177302&w=1920&h=1080",
+      "publishedAt": "2023-01-20T01:15:00Z",
+      "content": "China's reopening has been one of the most discussed topics at the World Economic Forum in Davos.\r\nDAVOS, Switzerland China's economic reopening might boost global growth, but the business leaders an… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Lawrence Hodge",
+      "title": "NASA, Boeing Are Working Together to Make Planes More Efficient - Jalopnik",
+      "description": "The space agency and the aerospace company could make planes more eco-friendly going into the 2030s.",
+      "url": "https://jalopnik.com/nasa-and-boeing-are-working-together-to-make-planes-mor-1850008887",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf85c4e6fc31052f5e1f985dead56a67.jpg",
+      "publishedAt": "2023-01-20T01:00:00Z",
+      "content": "Passenger airliners arent the most efficient vehicles in the world. While its true that between 1978 and 2021 the aviation industry managed to increase its efficiency by over 130 percent, more could … [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Jim Cramer says an 'obsession' with mega-cap names is overshadowing a bull market - CNBC Television",
+      "description": "Cramer said that many non-tech stocks are on a bull run.",
+      "url": "https://www.youtube.com/watch?v=R_J8X_hYrHg",
+      "urlToImage": "https://i.ytimg.com/vi/R_J8X_hYrHg/maxresdefault.jpg",
+      "publishedAt": "2023-01-20T00:37:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Brazil court grants bankruptcy protection for retailer Americanas - Reuters",
+      "description": "A Rio de Janeiro court on Thursday accepted Brazilian retailer Americanas SA's <a href=\"https://www.reuters.com/companies/AMER3.SA\" target=\"_blank\">(AMER3.SA)</a> bankruptcy protection request, days after the company disclosed nearly $4 billion in accounting …",
+      "url": "https://www.reuters.com/business/retail-consumer/brazils-americanas-considering-filing-bankruptcy-2023-01-19/",
+      "urlToImage": "https://www.reuters.com/resizer/Smd8G-KHXzXra5artsOlXA1RX9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EAR6VX3L5JOU7KIXLKIOYZCVRE.jpg",
+      "publishedAt": "2023-01-20T00:36:00Z",
+      "content": "SAO PAULO, Jan 19 (Reuters) - A Rio de Janeiro court on Thursday accepted Brazilian retailer Americanas SA's (AMER3.SA) bankruptcy protection request, days after the company disclosed nearly $4 billi… [+3495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Krystal Hur",
+      "title": "Cramer's lightning round: I like ABM Industries - CNBC",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2023/01/19/cramers-lightning-round-i-like-abm-industries.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1674174637&w=1920&h=1080",
+      "publishedAt": "2023-01-20T00:30:00Z",
+      "content": "Dow Inc: \"I want you to hold on. ... Keep it at a 5% yield, buy some more if it goes 5.5%.\"\r\nABM Industries Inc: \"Talk about a boring facilities management company that I like so much. You've got a r… [+817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Carmen Reinicke",
+      "title": "Stock futures tick up after Dow goes negative for the year - CNBC",
+      "description": "Investors are trying to hold onto January's rally while watching earnings, economic data.",
+      "url": "https://www.cnbc.com/2023/01/19/stock-futures-tick-up-after-dow-goes-negative-for-the-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181118-1674142187279-gettyimages-1457697883-032a4617_5d0b411e-2630-46ce-b7c9-3bb5d2e9f8a3.jpeg?v=1674169360&w=1920&h=1080",
+      "publishedAt": "2023-01-20T00:17:00Z",
+      "content": "Stock futures ticked higher on Thursday as investors tried to hang onto the January rally amid worries about monetary policy and slowing earnings.\r\nFutures tied to the Dow Jones Industrial Average ro… [+1787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Prerana Bhat",
+      "title": "Fed to deliver two 25-basis-point hikes in Q1, followed by long pause: Reuters poll - Yahoo Finance",
+      "description": "The U.S. Federal Reserve will end its tightening cycle after a 25-basis-point hike at each of its next two policy meetings and then likely hold interest...",
+      "url": "https://finance.yahoo.com/news/fed-deliver-two-25-basis-000849008.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/5388d3fb6bb1ecaeef04eb04fd6ca337",
+      "publishedAt": "2023-01-20T00:08:00Z",
+      "content": "By Prerana Bhat\r\nBENGALURU (Reuters) - The U.S. Federal Reserve will end its tightening cycle after a 25-basis-point hike at each of its next two policy meetings and then likely hold interest rates s… [+4163 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Stung! Sting reportedly played elite Microsoft event as layoffs loomed - The Seattle Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3R1bmctc3RpbmctcmVwb3J0ZWRseS1wbGF5ZWQtZWxpdGUtbWljcm9zb2Z0LWV2ZW50LWFzLWxheW9mZnMtbG9vbWVkL9IBcmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3R1bmctc3RpbmctcmVwb3J0ZWRseS1wbGF5ZWQtZWxpdGUtbWljcm9zb2Z0LWV2ZW50LWFzLWxheW9mZnMtbG9vbWVkLz9hbXA9MQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-19T23:47:58Z",
+      "content": null
+    }
+  ]
+}
